@@ -1,3 +1,3 @@
 # Prog1Lab1
 
-First repository
+Updated version of repository
